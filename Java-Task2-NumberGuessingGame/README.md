@@ -30,3 +30,8 @@ How to Run
 Screenshots
 
 Application screenshots will be added to the "screenshots" folder.
+Demo Video
+
+Demo Video
+
+"Click here to watch my Number Guessing Game demo" (https://drive.google.com/file/d/1_rb0CkJGwDSumnIm-4Jjb0X8OjDSrGw5/view?usp=drivesdk)
