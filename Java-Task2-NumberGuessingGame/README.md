@@ -30,7 +30,6 @@ How to Run
 Screenshots
 
 Application screenshots will be added to the "screenshots" folder.
-Demo Video
 
 Demo Video
 
