@@ -41,6 +41,7 @@ How to Run
 Screenshots
 
 See the "screenshots" folder for application screenshots.
+
 Demo video
 
 "Click here to watch my Online Reservation System demo" (https://drive.google.com/file/d/1VBbqlqGLK_wy90XFuaovUaczEon0R0__/view?usp=drivesdk)
